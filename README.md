@@ -29,3 +29,30 @@ A responsive and interactive **web-based calculator** built with **HTML**, **CSS
 | **VS Code** | Development environment |
 | **Git & GitHub** | Version control and project hosting |
 
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/basic-calculator.git
+   '''
+   
+2. Open the project folder:
+'''bash
+cd basic-calculator
+
+'''
+3. Open index.html in your browser (or use Live Server if using VS Code)
+
+---
+
+## 📁 Folder Structure
+
+'''bash
+basic-calculator/
+├── index.html          # Main HTML structure
+├── style.css           # CSS styling and layout
+├── script.js           # JavaScript logic
+└── README.md           # Project documentation
+'''
