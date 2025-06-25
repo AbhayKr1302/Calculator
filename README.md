@@ -20,14 +20,14 @@ A responsive and interactive **web-based calculator** built with **HTML**, **CSS
 ---
 
 ## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|------------|---------|
-| **HTML5**  | Markup structure for calculator layout |
-| **CSS3**   | Styling, grid layout, responsive design |
-| **JavaScript** | Calculator logic, input handling, evaluation |
-| **VS Code** | Development environment |
-| **Git & GitHub** | Version control and project hosting |
+    
+    | Technology | Purpose |
+    |------------|---------|
+    | **HTML5**  | Markup structure for calculator layout |
+    | **CSS3**   | Styling, grid layout, responsive design |
+    | **JavaScript** | Calculator logic, input handling, evaluation |
+    | **VS Code** | Development environment |
+    | **Git & GitHub** | Version control and project hosting |
 
 ---
 
@@ -39,9 +39,9 @@ A responsive and interactive **web-based calculator** built with **HTML**, **CSS
    ```
    
 2. Open the project folder:
-```bash
-cd basic-calculator
-```
+    ```bash
+    cd basic-calculator
+    ```
 
 3. Open index.html in your browser (or use Live Server if using VS Code)
 
@@ -49,10 +49,10 @@ cd basic-calculator
 
 ## 📁 Folder Structure
 
-```bash
-basic-calculator/
-├── index.html          # Main HTML structure
-├── style.css           # CSS styling and layout
-├── script.js           # JavaScript logic
-└── README.md           # Project documentation
-```
+    ```bash
+    basic-calculator/
+    ├── index.html          # Main HTML structure
+    ├── style.css           # CSS styling and layout
+    ├── script.js           # JavaScript logic
+    └── README.md           # Project documentation
+    ```
