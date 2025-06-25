@@ -22,13 +22,13 @@ A responsive and interactive **web-based calculator** built with **HTML**, **CSS
 ## 🛠️ Technologies Used
     
 
-  | Technology | Purpose |
-  |------------|---------|
-  | **HTML5**  | Markup structure for calculator layout |
-  | **CSS3**   | Styling, grid layout, responsive design |
-  | **JavaScript** | Calculator logic, input handling, evaluation |
-  | **VS Code** | Development environment |
-  | **Git & GitHub** | Version control and project hosting |
+    | Technology | Purpose |
+    |------------|---------|
+    | **HTML5**  | Markup structure for calculator layout |
+    | **CSS3**   | Styling, grid layout, responsive design |
+    | **JavaScript** | Calculator logic, input handling, evaluation |
+    | **VS Code** | Development environment |
+    | **Git & GitHub** | Version control and project hosting |
 
 ---
 
@@ -51,9 +51,9 @@ A responsive and interactive **web-based calculator** built with **HTML**, **CSS
 ## 📁 Folder Structure
 
 
-    basic-calculator/
-    ├── index.html          # Main HTML structure
-    ├── style.css           # CSS styling and layout
-    ├── script.js           # JavaScript logic
-    └── README.md           # Project documentation
+      basic-calculator/
+      ├── index.html          # Main HTML structure
+      ├── style.css           # CSS styling and layout
+      ├── script.js           # JavaScript logic
+      └── README.md           # Project documentation
   
