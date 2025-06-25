@@ -57,3 +57,6 @@ A responsive and interactive **web-based calculator** built with **HTML**, **CSS
     ├── script.js           # JavaScript logic
     └── README.md           # Project documentation
 
+---
+## 🙋‍♂️ Author
+Developed by **Abhay kumar**
