@@ -21,13 +21,13 @@ A responsive and interactive **web-based calculator** built with **HTML**, **CSS
 
 ## 🛠️ Technologies Used
     
-    | Technology       | Purpose |
-    |------------------|---------|
-    | **HTML5**        | Markup structure for calculator layout |
-    | **CSS3**         | Styling, grid layout, responsive design |
+    |   Technology     |             Purpose                          |
+    |------------------|----------------------------------------------|
+    | **HTML5**        | Markup structure for calculator layout       |
+    | **CSS3**         | Styling, grid layout, responsive design      |
     | **JavaScript**   | Calculator logic, input handling, evaluation |
-    | **VS Code**      | Development environment |
-    | **Git & GitHub** | Version control and project hosting |
+    | **VS Code**      | Development environment                      |
+    | **Git & GitHub** | Version control and project hosting          |
 
 ---
 
